@@ -12,8 +12,6 @@ export class CoursesService {
   constructor(private http: HttpClient) {}
 
   public listAll() {
-    return this.http.get<Course[]>(`${this.endPoint}`).pipe(
-      delay(500)
-    );
+    return this.http.get<Course[]>(`${this.endPoint}`);
   }
 }

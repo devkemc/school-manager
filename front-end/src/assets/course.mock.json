@@ -1,7 +1,7 @@
 [
-  { "_id": "2", "name": "Angular", "category": "front-end" },
-  { "_id": "3", "name": "React js", "category": "front-end" },
-  { "_id": "4", "name": "Vue js", "category": "front-end" },
-  { "_id": "5", "name": "Node js", "category": "back-end" },
-  { "_id": "6", "name": "Java", "category": "back-end" }
+  { "id": "2", "name": "Angular", "category": "front-end" },
+  { "id": "3", "name": "React js", "category": "front-end" },
+  { "id": "4", "name": "Vue js", "category": "front-end" },
+  { "id": "5", "name": "Node js", "category": "back-end" },
+  { "id": "6", "name": "Java", "category": "back-end" }
 ]
